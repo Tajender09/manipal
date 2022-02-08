@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/manipal/static/css/main.b03a231d.css",
+    "main.js": "/manipal/static/js/main.475f428c.js",
+    "index.html": "/manipal/index.html",
+    "main.b03a231d.css.map": "/manipal/static/css/main.b03a231d.css.map",
+    "main.475f428c.js.map": "/manipal/static/js/main.475f428c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b03a231d.css",
+    "static/js/main.475f428c.js"
+  ]
+}
