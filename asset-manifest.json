@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/manipal/static/css/main.853129c8.css",
-    "main.js": "/manipal/static/js/main.aa07ece0.js",
+    "main.css": "/manipal/static/css/main.56032d8c.css",
+    "main.js": "/manipal/static/js/main.431f3b16.js",
     "index.html": "/manipal/index.html",
-    "main.853129c8.css.map": "/manipal/static/css/main.853129c8.css.map",
-    "main.aa07ece0.js.map": "/manipal/static/js/main.aa07ece0.js.map"
+    "main.56032d8c.css.map": "/manipal/static/css/main.56032d8c.css.map",
+    "main.431f3b16.js.map": "/manipal/static/js/main.431f3b16.js.map"
   },
   "entrypoints": [
-    "static/css/main.853129c8.css",
-    "static/js/main.aa07ece0.js"
+    "static/css/main.56032d8c.css",
+    "static/js/main.431f3b16.js"
   ]
 }
